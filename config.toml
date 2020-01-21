@@ -1,0 +1,4 @@
+baseURL = "https://kohidave.dev/"
+languageCode = "en-us"
+title = "vvv important thoughts"
+theme = "hugo-ink"
