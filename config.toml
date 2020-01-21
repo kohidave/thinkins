@@ -1,4 +1,4 @@
-baseURL = "https://kohidave.dev/"
+baseURL = "https://kohidave.github.io"
 languageCode = "en-us"
 title = "very important thinkin 🧐"
 theme = "hugo-ink"
