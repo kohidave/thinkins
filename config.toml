@@ -2,3 +2,16 @@ baseURL = "https://kohidave.github.io/"
 languageCode = "en-us"
 title = "very important thinkin 🧐"
 theme = "hugo-ink"
+[params]
+    avatar = "/images/hms_huh.png"
+    Subtitle = "_all posts written while listening to Dolly Parton_"
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/kohidave"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/kohidave"
